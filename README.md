@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on SV File Manager [Uptodown](https://svfilemanager.en.uptodown.com/android) [ApkPure](https://apkpure.com/p/com.svc.filemanager)
+🔭 I’m currently working on SV File Manager: [Uptodown](https://svfilemanager.en.uptodown.com/android) | [ApkPure](https://apkpure.com/p/com.svc.filemanager)
 
 
 ## 🌐 Socials:
