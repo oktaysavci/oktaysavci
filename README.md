@@ -4,6 +4,8 @@
 - **GG Script Generator**:
 [Web](https://ggscriptgenerator.vercel.app) | [Uptodown](https://gg-script-generator.en.uptodown.com/android) |
 [ApkPure](https://apkpure.com/p/com.svc.ggscriptgenerator)
+- **GG Script Generator Pro**:
+[Gumroad](https://svcsoftware.gumroad.com/l/ggscriptgeneratorpro)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/19savci) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@OktaySavci) 
