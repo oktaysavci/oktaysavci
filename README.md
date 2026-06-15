@@ -1,6 +1,6 @@
 # 💫 About Me:
 🔭 I'm currently working on multiple Android projects:
-- **SV File Manager**: [Web](https://svfilemanager.vercel.app) | [Uptodown](https://svfilemanager.en.uptodown.com/android) | [ApkPure](https://apkpure.com/p/com.svc.filemanager)
+- **SV File Manager**: [Web](https://svfilemanager.vercel.app) | [Uptodown](https://svfilemanager.en.uptodown.com/android) | [ApkPure](https://apkpure.com/p/com.svc.filemanager) | [Play Store](https://play.google.com/store/apps/details?id=com.svcstudio.filemanager)
 - **GG Script Generator**:
 [Web](https://ggscriptgenerator.vercel.app) | [Uptodown](https://gg-script-generator.en.uptodown.com/android) |
 [ApkPure](https://apkpure.com/p/com.svc.ggscriptgenerator)
